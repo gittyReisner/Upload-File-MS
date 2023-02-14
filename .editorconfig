@@ -1,0 +1,10 @@
+[*]
+indent_size = 2
+trim_trailing_whitespace = true
+max_line_length = 180
+quote_type = single
+curly_bracket_next_line = false
+spaces_around_operators = true
+spaces_around_brackets = both
+end_of_line = lf
+insert_final_newline = true
